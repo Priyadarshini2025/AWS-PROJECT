@@ -40,7 +40,7 @@ AWS-PROJECT/
 ### Homepage
 ![Homepage](https://github.com/user-attachments/assets/1cb5c732-1764-423f-9224-b913d855a5e1)
 
-###**Installation and Setup**
+### Installation and Setup
 
 Clone this repository:
 
