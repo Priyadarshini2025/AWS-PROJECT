@@ -40,19 +40,6 @@ AWS-PROJECT/
 ### Homepage
 ![Homepage](https://github.com/user-attachments/assets/1cb5c732-1764-423f-9224-b913d855a5e1)
 
-## Installation and Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Priyadarshini2025/AWS-PROJECT.git
-   ```
-
-2. Open the project folder:
-   ```bash
-   cd AWS-PROJECT
-   ```
-
-3. Open `index.html` in your web browser.
 
 No additional software installation is required to view the basic website.
 
